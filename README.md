@@ -1,3 +1,3 @@
-# Ruby on rails
+# Wikis
 
-## Getting started
+## Ruby on rails
